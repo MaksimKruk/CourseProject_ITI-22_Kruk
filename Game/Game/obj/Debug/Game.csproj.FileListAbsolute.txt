@@ -1,0 +1,15 @@
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\MainWindow.g.cs
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\App.g.cs
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game_MarkupCompile.cache
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game_MarkupCompile.lref
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\bin\Debug\Game.exe.config
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\bin\Debug\Game.exe
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\bin\Debug\Game.pdb
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\MainWindow.baml
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.g.resources
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.exe
+C:\Users\RaDeckal\Desktop\Курсовая\Game\Game\obj\Debug\Game.pdb
