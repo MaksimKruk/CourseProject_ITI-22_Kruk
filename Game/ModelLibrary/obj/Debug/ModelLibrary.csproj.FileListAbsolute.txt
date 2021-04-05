@@ -1,0 +1,6 @@
+C:\Курсовая\WpfApp1\ModelLibrary\bin\Debug\ModelLibrary.dll
+C:\Курсовая\WpfApp1\ModelLibrary\bin\Debug\ModelLibrary.pdb
+C:\Курсовая\WpfApp1\ModelLibrary\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+C:\Курсовая\WpfApp1\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+C:\Курсовая\WpfApp1\ModelLibrary\obj\Debug\ModelLibrary.dll
+C:\Курсовая\WpfApp1\ModelLibrary\obj\Debug\ModelLibrary.pdb
